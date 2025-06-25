@@ -6,6 +6,7 @@ con herramientas como Selenium WebDriver permite mejorar la eficiencia, reducir 
 humanos y validar aplicaciones web de forma continua.
 En este ejercicio automatizarás una prueba sencilla: verificar que una búsqueda en un sitio web
 devuelva resultados esperados.
+
 ✅ Objetivo
 - Instalar y configurar Selenium con Python.
 - Crear una prueba funcional sobre un sitio web público.
